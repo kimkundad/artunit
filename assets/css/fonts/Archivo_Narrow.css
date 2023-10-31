@@ -1,0 +1,9 @@
+/* latin */
+@font-face {
+  font-family: 'Archivo Narrow';
+  src: url(Archivo_Narrow/ArchivoNarrow-Regular.ttf);
+}
+body{
+	font-family: 'Archivo Narrow', sans-serif;
+}
+

@@ -1,0 +1,9 @@
+@font-face {
+  	font-family: 'RSU';
+	src: url(rsufont/RSU_light.ttf);
+	unicode-range: U+0E00–U+0E7F;
+}
+body{
+	font-family: 'RSU', sans-serif;
+	font-size: 18px;
+}

@@ -1,0 +1,10 @@
+@font-face {
+  	font-family: 'Thaisanslite';
+  	src: url(Thaisanslite/thaisanslite_r1.ttf)  format('truetype');
+  	unicode-range: U+0E00–U+0E7F;
+	
+}
+body{
+	//font-family: 'Thaisanslite', sans-serif;
+	font-size: 20px;
+}

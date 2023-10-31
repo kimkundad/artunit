@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Yanone Kaffeesatz';
+  src: url(Yanone_Kaffeesatz/YanoneKaffeesatz-Regular.ttf);
+}
+body{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size:1.6em;
+}
+

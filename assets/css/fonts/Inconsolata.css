@@ -1,0 +1,9 @@
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inconsolata';
+  src: url(Inconsolata/Inconsolata-Regular.ttf);
+}
+body{
+	font-family: 'Inconsolata', sans-serif;
+	
+}

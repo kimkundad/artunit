@@ -1,0 +1,8 @@
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto Condensed';
+  src: url(Roboto_Condensed/RobotoCondensed-Regular.ttf);
+}
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+}

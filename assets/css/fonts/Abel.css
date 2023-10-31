@@ -1,0 +1,10 @@
+/* latin */
+@font-face {
+  font-family: 'Abel';
+  src: url(Abel/Abel-Regular.ttf);
+}
+body{
+	font-family: 'Abel', sans-serif;
+	font-size:1.6em;
+}
+

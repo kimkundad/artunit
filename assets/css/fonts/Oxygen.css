@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Oxygen';
+  src: url(Oxygen/Oxygen-Regular.ttf);
+}
+body{
+	font-family: 'Oxygen', sans-serif;
+}
